@@ -25,6 +25,7 @@ SECRET_KEY = 'django-insecure-u(s&w7zy4byyqtwb*pm=p^90d25$fc2^1i9u_r_2q+k+mn=neg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+#https://channels.readthedocs.io/en/latest/tutorial/part_4.html
 ALLOWED_HOSTS = ['127.0.0.1']
 
 
